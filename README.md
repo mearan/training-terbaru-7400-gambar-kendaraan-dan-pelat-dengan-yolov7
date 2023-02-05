@@ -1,0 +1,1 @@
+# training-terbaru-7400-gambar-kendaraan-dan-pelat-dengan-yolov7
